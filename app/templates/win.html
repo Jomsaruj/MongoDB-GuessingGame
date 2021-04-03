@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+
+<style>
+    h1 {text-align: center;}
+    h2 {text-align: center;}
+    h3 {text-align: center;}
+    .button {
+      background-color: white;
+      border: none;
+      color: black;
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      border: 2px solid black;
+      border-radius: 12px;
+      transition-duration: 0.4s;
+      margin: 0 670px;
+    }
+    .button:hover {
+      background-color: green;
+      color: white;
+    }
+
+</style>
+
+<html>
+    <body>
+        <h1> Congratulation you win!!!</h1>
+        <hr>
+        <h2>Attempt: {{attempt}}</h2>
+        <a href="/reset" class="button">Play again</a>
+    </body>
+</html>
