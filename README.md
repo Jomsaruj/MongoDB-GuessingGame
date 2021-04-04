@@ -34,3 +34,17 @@ Perform this command to upgrade Python pip
 	python3 -m pip install --upgrade pip
 ```
 
+### 1. Clone repository to your local machine
+
+   > There are 2 ways to download the code to your local machine. You can either download the code as a ZIP file or open the terminal and follow the command below.
+
+Before perform commands below, please navigate to the directory that you want to store the code by using this command `cd <your target directory>`
+
+```
+	git clone https://github.com/Jomsaruj/DEK-COM.git
+```
+### 2. Navigate to the project directory
+```
+        cd DEK-COM
+```
+
