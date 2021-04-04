@@ -18,3 +18,19 @@ The main objective of this project is to understand some basic concept of MongoD
 | Requests |  2.25.1 or higher  |
 | Redis |  3.5.3 or higher  |
 
+### Upgrade your Python pip to the latest version 
+
+> First of all, please verify that your Python pip is already upgrade to the latest version. The commands to upgrade Python pip for Linux and MacOS usually are `python3` and `pip3`, different from other operating system that are `python` and `pip`.
+
+Perform this command to upgrade Python pip
+
+* #### Windows
+```
+	python -m pip install --upgrade pip
+```
+
+* #### Linux/MacOS
+```
+	python3 -m pip install --upgrade pip
+```
+
