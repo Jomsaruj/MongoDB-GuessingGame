@@ -41,10 +41,10 @@ Perform this command to upgrade Python pip
 Before perform commands below, please navigate to the directory that you want to store the code by using this command `cd <your target directory>`
 
 ```
-	git clone https://github.com/Jomsaruj/DEK-COM.git
+	git clone https://github.com/Jomsaruj/MongoDB-GuessingGame.git
 ```
 ### 2. Navigate to the project directory
 ```
-        cd DEK-COM
+        cd MongoDB-GuessingGame
 ```
 
