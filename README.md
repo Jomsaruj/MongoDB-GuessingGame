@@ -48,3 +48,13 @@ Before perform commands below, please navigate to the directory that you want to
         cd MongoDB-GuessingGame
 ```
 
+### 3. Run Docker compose
+```
+        docker-compose up -d
+```
+
+### 4. Open localhost with your favourite search engine
+```
+        http://localhost/
+```
+
