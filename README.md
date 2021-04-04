@@ -4,7 +4,7 @@ Alphabet Guessing Game develop using MongoDB database. This project is a part of
 <img width="1436" alt="gg" src="https://user-images.githubusercontent.com/59832457/113494694-dd52ae80-9514-11eb-847e-b64af5806610.png">
 
 ## Vision Statement
-The main objective of this project is to understand some basic concept of MongoDB. Therefore, application might not very robust and pretty. 
+The main objective of this project is to understand some basic concept of MongoDB. Therefore, application may not very robust and not look very pretty. Developer only focus on the basic concept of using MongoDB
 
 ## Instruction to run the application
 This application is required to run using Docker.
