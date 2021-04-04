@@ -59,9 +59,9 @@ Before perform commands below, please navigate to the directory that you want to
 ```
 
 ## Video instruction
-```
-	https://www.youtube.com/watch?v=dnv7gCy3U9U
-```
+
+https://www.youtube.com/watch?v=dnv7gCy3U9U
+
 
 ## @License
 Saruj Sattayanurak 6210545700
