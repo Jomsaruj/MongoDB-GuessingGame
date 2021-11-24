@@ -1,4 +1,9 @@
 # MongoDB-GuessingGame
+
+## Video demostration
+
+https://www.youtube.com/watch?v=dnv7gCy3U9U
+
 Alphabet Guessing Game develop using MongoDB database. This project is a part of 0129231 Database System for Software and Knowledge engineers at Kasetsart University written in Python using Flask.
 
 <img width="1436" alt="gg" src="https://user-images.githubusercontent.com/59832457/113494694-dd52ae80-9514-11eb-847e-b64af5806610.png">
@@ -57,10 +62,6 @@ Before perform commands below, please navigate to the directory that you want to
 ```
         http://localhost/
 ```
-
-## Video instruction
-
-https://www.youtube.com/watch?v=dnv7gCy3U9U
 
 
 ## @License
